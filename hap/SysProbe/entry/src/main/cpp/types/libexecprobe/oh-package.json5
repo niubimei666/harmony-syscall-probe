@@ -1,0 +1,6 @@
+{
+  "name": "libexecprobe.so",
+  "types": "./Index.d.ts",
+  "version": "1.0.0",
+  "description": "fork+execve probe native module"
+}

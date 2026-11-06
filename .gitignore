@@ -1,0 +1,26 @@
+# 构建产物
+build/
+.cxx/
+.hvigor/
+oh_modules/
+*.hap
+*.har
+*.hsp
+
+# 签名材料（绝不提交）
+*.p12
+*.p7b
+*.cer
+*.csr
+*.keystore
+signing-configs/
+
+# 临时文件
+build-tmp/
+report-*.md
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "syscall capability probe" },
+    { "name": "EntryAbility_desc", "value": "syscall probe" },
+    { "name": "EntryAbility_label", "value": "SysProbe" }
+  ]
+}
